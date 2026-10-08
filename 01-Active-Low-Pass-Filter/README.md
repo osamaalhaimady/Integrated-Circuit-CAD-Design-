@@ -50,3 +50,21 @@ Key observations:
 The simulation demonstrates the frequency-selective behavior of an active low-pass filter.
 
 The LTspice results are consistent with the expected low-pass response and provide practical insight into cutoff frequency, passband behavior, and high-frequency attenuation.
+
+## Simulation Setup
+
+The LTspice simulation was configured according to the laboratory specifications.
+
+![LTspice Simulation Setup](Capture.JPG)
+
+## Circuit Schematic
+
+The active low-pass filter circuit was implemented in LTspice.
+
+![Active Low-Pass Filter Schematic](Capture2.JPG)
+
+## Simulation Results
+
+The transient response was evaluated at different input frequencies, including 1 kHz, 10 kHz, 100 kHz, and 1 MHz.
+
+![Simulation Results](Capture3.JPG)
