@@ -76,7 +76,7 @@ resistances.
 ![NMOS DC Parameters](nmos-dc-params-3.JPG)
 ##Transient Analysis (Propagation Delay)
 ### LTspice Code
-![LTspice Code 4](ltspice-code-4.JPG)
+[LTspice Code 4](ltspice-code-4.JPG)
 ## Figure 6.2: Transient response of the NMOS resistive-load inverter for different load resistances.
 ### Simulation Result
 ![Simulation Result 5](simulation-result-5.JPG)
