@@ -98,5 +98,4 @@ resistances.
 ![Simulation Result 11](simulation-result-11.JPG)
 ## Comparative Discussion
 ### Comparison of NMOS resistive-load and CMOS inverters
-
 ![Comparison](comparison-12.JPG)
