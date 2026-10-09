@@ -55,6 +55,4 @@ The simulations provide a transistor-level analysis of NMOS behavior using LTspi
 
 The results demonstrate the relationship between terminal voltages and drain current, as well as the effects of leakage, temperature, body bias, and technology scaling.
 
-02-NMOS-Transistor-Characterization/Capture4.JPG
 
-02-NMOS-Transistor-Characterization/Capture5.JPG
