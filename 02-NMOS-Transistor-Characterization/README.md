@@ -58,13 +58,18 @@ The results demonstrate the relationship between terminal voltages and drain cur
 ## Single Transistor Characterization (65nm)
 ### LTspice Code
 ![LTspice Code 1](LTspice%20Code4.JPG)
-
+## Simulation Result
+### (Insert your first graph here – the one showing Id vs. Vds for VGS = 0.1V to 1.1V)
 ![Simulation Result 1](Simulation%20Result5.JPG)
-
+##  Measured Values and Analysis
+### Table 5.1: Drain current at VDS=1.1 VVDS=1.1 V for different VGSVGS values.
 ![Measured Values and Analysis 1](Measured%20Values%20and%20Analysis6.JPG)
-
+##  Body Biasing Effect (NMOS)
+###  LTspice Code
 ![LTspice Code 2](LTspice%20Code7.JPG)
-
+## Simulation Result
+### (Insert your second graph here – the log-scale curves for VBS = -0.5V, 0V, +0.5V)
 ![Simulation Result 2](Simulation%20Result8.JPG)
-
+##  Measured Values and Analysis
+### Table 5.2: NMOS drain current and leakage variation with body bias
 ![Measured Values and Analysis 2](Measured%20Values%20and%20Analysis9.JPG)
