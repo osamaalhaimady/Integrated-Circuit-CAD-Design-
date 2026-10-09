@@ -76,3 +76,21 @@ It also develops an understanding of logic functionality, power consumption, pro
 - CMOS transistor models
 - Logic gate simulation
 - Power and delay analysis
+
+##  DC VTC Curves for Different Input Pattern
+### LTspice Code
+![LTspice Code 1](LTspice%20Code1.JPG)
+## Figure 7.1: DC voltage transfer characteristic (VTC) of the NAND2 gate for different input
+patterns.
+### Simulation Result
+![Simulation Result 2](Simulation%20Result2.JPG)
+## NAND2 switching threshold (VM) for different input patterns.
+![NAND2 switching threshold (VM) for different input patterns](NAND2%20switching%20threshold%20(VM)%20for%20different%20input%20patterns.3.JPG)
+##  Propagation Delay (CL=5 fFCL=5 fF)
+### LTspice Code
+![LTspice Code 4](LTspice%20Code4.JPG)
+## Figure 7.2: Transient response of the NAND2 gate.
+### Simulation Result
+![Simulation Result 5](Simulation%20Result5.JPG)
+## Table 7.2: NAND2 propagation delay for different input patterns.
+![NAND2 propagation delay for different input patterns](NAND2%20propagation%20delay%20for%20different%20input%20patterns.6.JPG)
