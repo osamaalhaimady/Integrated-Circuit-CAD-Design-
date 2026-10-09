@@ -67,35 +67,35 @@ It also helps develop an understanding of voltage transfer characteristics, inve
 
 ## Analysis (Voltage Transfer Characteristic)
 ### LTspice Code
-- ![LTspice Code 1](ltspice-code-1.JPG)
-- ## Figure 6.1: DC voltage transfer characteristics of the NMOS resistive-load inverter for three load
+![LTspice Code 1](LTspice%20Code1.JPG)
+## Figure 6.1: DC voltage transfer characteristics of the NMOS resistive-load inverter for three load
 resistances.
-###  Simulation Result
-![Simulation Result 2](simulation-result-2.JPG)
+### Simulation Result
+![Simulation Result 2](Simulation%20Result2.JPG)
 ## NMOS resistive-load inverter DC parameters.
-![NMOS DC Parameters](nmos-dc-params-3.JPG)
+![NMOS DC Parameters](NMOS%20resistive-load%20inverter%20DC%20parameters.3.JPG)
 ##Transient Analysis (Propagation Delay)
 ### LTspice Code
-![LTspice Code 4](ltspice-code-4.JPG)
+![LTspice Code 4](LTspice%20Code4.JPG)
 ## Figure 6.2: Transient response of the NMOS resistive-load inverter for different load resistances.
 ### Simulation Result
-![Simulation Result 5](simulation-result-5.JPG)
+![Simulation Result 5](Simulation%20Result5.JPG)
 ## NMOS resistive-load inverter transient parameters
-![NMOS Transient Parameters](nmos-transient-params-6.JPG)
+![NMOS Transient Parameters](NMOS%20resistive-load%20inverter%20transient%20parameters.6.JPG)
 ## DC Analysis (Voltage Transfer Characteristic)
 ### LTspice Code
-![LTspice Code 7](ltspice-code-7.JPG)
+![LTspice Code 7](LTspice%20Code7.JPG)
 ## Figure 6.3: DC voltage transfer characteristic (VTC) of the CMOS inverter.
-###  Simulation Result
-![Simulation Result 8](simulation-result-8.JPG)
+### Simulation Result
+![Simulation Result 8](Simulation%20Result8.JPG)
 ## CMOS inverter DC parameters.
-![CMOS DC Parameters](cmos-dc-params-9.JPG)
+![CMOS DC Parameters](CMOS%20inverter%20DC%20parameters.9.JPG)
 ## Transient Analysis
 ### LTspice Code
-![LTspice Code 10](ltspice-code-10.JPG)
+![LTspice Code 10](LTspice%20Code10.JPG)
 ## Figure 6.4: Transient response of the CMOS inverter.
-###  Simulation Result
-![Simulation Result 11](simulation-result-11.JPG)
+### Simulation Result
+![Simulation Result 11](Simulation%20Result11.JPG)
 ## Comparative Discussion
 ### Comparison of NMOS resistive-load and CMOS inverters
-![Comparison](comparison-12.JPG)
+![Comparison](Comparison%20of%20NMOS%20resistive-load%20and%20CMOS%20inverters.12.JPG)
