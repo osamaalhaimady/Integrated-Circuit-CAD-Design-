@@ -54,3 +54,12 @@ This comparison helps illustrate how transistor characteristics change as the te
 The simulations provide a transistor-level analysis of NMOS behavior using LTspice.
 
 The results demonstrate the relationship between terminal voltages and drain current, as well as the effects of leakage, temperature, body bias, and technology scaling.
+
+ LTspice Code
+![LTspice Code](LTspice%20Code.JPG)
+Simulation Result
+(Insert your first graph here – the one showing Id vs. Vds for VGS = 0.1V to 1.1V)
+![Simulation Result](Simulation%20Result.JPG)
+Measured Values and Analysis
+Table 5.1: Drain current at VDS=1.1 VVDS=1.1 V for different VGSVGS values.
+![Measured Values and Analysis](Measured%20Values%20and%20Analysis.JPG)
