@@ -54,3 +54,15 @@ This comparison helps illustrate how transistor characteristics change as the te
 The simulations provide a transistor-level analysis of NMOS behavior using LTspice.
 
 The results demonstrate the relationship between terminal voltages and drain current, as well as the effects of leakage, temperature, body bias, and technology scaling.
+
+![LTspice Code 1](LTspice%20Code4.JPG)
+
+![Simulation Result 1](Simulation%20Result5.JPG)
+
+![Measured Values and Analysis 1](Measured%20Values%20and%20Analysis6.JPG)
+
+![LTspice Code 2](LTspice%20Code7.JPG)
+
+![Simulation Result 2](Simulation%20Result8.JPG)
+
+![Measured Values and Analysis 2](Measured%20Values%20and%20Analysis9.JPG)
